@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NitinStar
 - 👀 I’m interested in bulding web application.
-- 🌱 I’m currently learning Flutter and Adance Node Js.
+- 🌱 Have experience on Angular, Node Js, Redis and MySQL.
 - 💞️ I’m looking to collaborate on helpful libraries in JS.
 - 📫 Conenct me on nitinkmrdixit@gmail.com
 
